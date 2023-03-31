@@ -1,6 +1,6 @@
 Name:		texlive-snaptodo
 Version:	61155
-Release:	1
+Release:	2
 Summary:	A todo that snaps to the closer side
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/snaptodo
