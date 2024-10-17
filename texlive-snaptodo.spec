@@ -3,7 +3,7 @@ Version:	70676
 Release:	1
 Summary:	A todo that snaps to the closer side
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/snaptodo
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/snaptodo
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/snaptodo.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/snaptodo.doc.r%{version}.tar.xz
